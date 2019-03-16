@@ -4,7 +4,7 @@ const bodyBcg = document.querySelector('body');
 const colors=['yellow','red','green','blue'];
 
 colorBtn.addEventListener('click',changeColor);
-//fuction 
+//fuction of javascript
 function changeColor(){
   //  bodyBcg.style.backgroundColor =colors[2];
   let random =Math.floor(Math.random()*colors.length)
