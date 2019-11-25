@@ -1,5 +1,6 @@
+// javascript project 
 const colorBtn = document.querySelector('.colorBtn');
-const bodyBcg = document.querySelector('body');
+const  bodyBcg = document.querySelector('body');
 
 const colors=['yellow','red','green','blue'];
 
